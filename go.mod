@@ -1,4 +1,4 @@
-module git-backup
+module github.com/gebi/git-backup
 
 go 1.25.0
 
